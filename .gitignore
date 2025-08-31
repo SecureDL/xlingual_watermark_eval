@@ -1,0 +1,141 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Figures
+notebooks/figures
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+.history
+.vscode
+.DS_Store
+
+# API keys
+ANTHROPIC_API_KEY
+OPENAI_API_KEY
+
+transformers_installation_history.txt
+
+config/DIP.json
+config/EWD_0.1_2.0.json
+config/EWD_0.9_2.0.json
+config/EWD.json
+config/EXPEdit.json
+config/EXPGumbel.json
+config/ITSEdit.json
+config/SIR.json
+config/SWEET.json
+config/SynthID.json
+config/TS.json
+config/Unbiased.json
+config/UPV.json
+config/XSIR_1.0.json
+config/PF.json
+
+data/computation_times.txt
+data/lfqa.jsonl
+data/opengen.jsonl
+data/text-context-ar-question-ar.json
+
+
+experiments/c4-experiments_with_mitigation.py
+experiments/scripts/experiments-token-lengths.sh
+
+notebooks/figures_logits_based_after_attacks_accurate_w_mitigation.ipynb
+notebooks/figures_logits_based_before_attacks.ipynb
+notebooks/figures_sampling_based_after_attack.ipynb
+notebooks/figures_sampling_based_before_attack.ipynb
+notebooks/figures_semantic_based_after_attack.ipynb
+notebooks/figures_semantic_based_before_attack.ipynb
+notebooks/figures_semantic_sampling_based_after_attack.ipynb
+notebooks/translation_codes.ipynb
+notebooks/watermarked_text_visualization.ipynb
+notebooks/llm-as-a-judge-analysis.ipynb
+
+# output folders
+outputs/hashing_effect
+outputs/mitigation
+outputs/model_ablation_experiment
+outputs/token_length
+
+outputs/quality/all-sb-results-jais-sail.txt
+outputs/quality/all-sb-results-r7b.txt
+outputs/quality/figure2_average_decreases.txt
+outputs/quality/gpt-judge-difference-decreases-old.txt
+outputs/quality/n-gram_all_methods.txt
+outputs/quality/n-gram_r7b_all_tasks.txt
+outputs/quality/performance_rates_all_methods.txt
+outputs/quality/sb_results_exp.txt
+outputs/quality/sb_results_kgw_unigram.txt
+outputs/quality/sb_resutls_xsir.txt
+outputs/quality/soft_wins_all_methods.txt
+outputs/attack/KGW/rebuttal_Anthropic_translations
+outputs/attack/Unigram/all_langs_anthropic_translator
+outputs/attack/performance_rates_all_methods_after_attack.txt
+outputs/original/EXP/German
+outputs/original/KGW/German
+outputs/original/Unigram/German
+outputs/original/XSIR/German
+
+# output logs
+**/logs
+# outputs/attack/EXP/logs
+# outputs/attack/KGW/logs
+# outputs/attack/Unigram/logs
+# outputs/attack/XSIR/logs
+# outputs/original/EXP/logs
+# outputs/original/KGW/logs
+# outputs/original/Unigram/logs
+# outputs/original/XSIR/logs
+# outputs/quality/EXP/logs
+# outputs/quality/KGW/logs
+# outputs/quality/Unigram/logs
+# outputs/quality/XSIR/logs
+
+
+# outputs methods
+outputs/original/SynthID
+outputs/quality/SynthID
+
+watermark/dip
+watermark/ewd
+watermark/exp_edit
+watermark/exp_gumbel
+watermark/its_edit
+watermark/sir
+watermark/sweet
+watermark/synthid
+watermark/ts
+watermark/unbiased
+watermark/upv
+watermark/pf
+
+watermark/xsir/dictionary/dictionary_ar.txt
+watermark/xsir/dictionary/dictionary_no_meta_ar.txt
+watermark/xsir/dictionary/orig_dictionary_no_meta.txt
+watermark/xsir/dictionary/orig_dictionary.txt
+watermark/xsir/dictionary/en-de-ar-fa-zh-ja-id-dictionary_no_meta.txt
+watermark/xsir/dictionary/en-de-ar-fa-zh-ja-id-dictionary.txt
+watermark/xsir/dictionary/en_zh_ar_id_dictionary.txt
+
+watermark/xsir/mapping/300_mapping_baichuan-7b_clusters.json
+watermark/xsir/mapping/300_mapping_baichuan-7b.json
+watermark/xsir/mapping/300_mapping_baichuan2-7b_clusters.json
+watermark/xsir/mapping/300_mapping_baichuan2-7b.json
+watermark/xsir/mapping/300_mapping_llama2-7b_clusters.json
+watermark/xsir/mapping/300_mapping_llama2-7b.json
+watermark/xsir/mapping/300_mapping_mistral-7b_clusters.json
+watermark/xsir/mapping/300_mapping_mistral-7b.json
+watermark/xsir/mapping/300_mapping_nllb_clusters.json
+watermark/xsir/mapping/300_mapping_nllb.json
+watermark/xsir/mapping/300_mapping_opt_1_3b_clusters.json
+watermark/xsir/mapping/300_mapping_opt_1_3b.json
+watermark/xsir/mapping/300_mapping_starcoder_clusters.json
+watermark/xsir/mapping/300_mapping_starcoder.json
+watermark/xsir/mapping/300_mapping_fb-opt_6.7_clusters.json
+watermark/xsir/mapping/300_mapping_fb-opt_6.7.json
+watermark/xsir/mapping/300_mapping_qwen_7b_clusters.json
+watermark/xsir/mapping/300_mapping_qwen_7b.json

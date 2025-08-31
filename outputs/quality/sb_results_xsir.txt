@@ -1,0 +1,48 @@
+XSIR English Adjusted self-bleu scores WATERMARKED
+Gamma: 0.5, Delta: 1.0, 0.18 0.42
+Gamma: 0.5, Delta: 2.0, 0.2 0.49
+Gamma: 0.5, Delta: 5.0, 0.22 0.59
+Gamma: 0.5, Delta: 10.0, 0.22 0.63
+
+XSIR English Adjusted self-bleu scores UNWATERMARKED
+Gamma: 0.5, Delta: 1.0, 0.17 0.33
+Gamma: 0.5, Delta: 2.0, 0.17 0.32
+Gamma: 0.5, Delta: 5.0, 0.17 0.3
+Gamma: 0.5, Delta: 10.0, 0.17 0.29
+
+XSIR Arabic Adjusted self-bleu scores WATERMARKED
+Gamma: 0.5, Delta: 1.0, 0.14 0.39
+Gamma: 0.5, Delta: 2.0, 0.14 0.45
+Gamma: 0.5, Delta: 5.0, 0.19 0.55
+Gamma: 0.5, Delta: 10.0, 0.19 0.57
+
+XSIR Arabic Adjusted self-bleu scores UNWATERMARKED
+Gamma: 0.5, Delta: 1.0, 0.12 0.36
+Gamma: 0.5, Delta: 2.0, 0.12 0.33
+Gamma: 0.5, Delta: 5.0, 0.13 0.3
+Gamma: 0.5, Delta: 10.0, 0.13 0.31
+
+XSIR Chinese Adjusted self-bleu scores WATERMARKED
+Gamma: 0.5, Delta: 1.0, 0.04 0.48
+Gamma: 0.5, Delta: 2.0, 0.03 0.55
+Gamma: 0.5, Delta: 5.0, 0.04 0.61
+Gamma: 0.5, Delta: 10.0, 0.03 0.62
+
+XSIR Chinese Adjusted self-bleu scores UNWATERMARKED
+Gamma: 0.5, Delta: 1.0, 0.04 0.4
+Gamma: 0.5, Delta: 2.0, 0.04 0.38
+Gamma: 0.5, Delta: 5.0, 0.04 0.36
+Gamma: 0.5, Delta: 10.0, 0.04 0.36
+
+XSIR Indonesian Adjusted self-bleu scores WATERMARKED
+Gamma: 0.5, Delta: 1.0, 0.11 0.43
+Gamma: 0.5, Delta: 2.0, 0.12 0.53
+Gamma: 0.5, Delta: 5.0, 0.1 0.66
+Gamma: 0.5, Delta: 10.0, 0.1 0.68
+
+XSIR Indonesian Adjusted self-bleu scores UNWATERMARKED
+Gamma: 0.5, Delta: 1.0, 0.1 0.38
+Gamma: 0.5, Delta: 2.0, 0.11 0.37
+Gamma: 0.5, Delta: 5.0, 0.1 0.32
+Gamma: 0.5, Delta: 10.0, 0.1 0.31
+

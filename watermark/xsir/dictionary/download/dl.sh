@@ -1,0 +1,14 @@
+wget https://dl.fbaipublicfiles.com/arrival/dictionaries/de-en.txt
+wget https://dl.fbaipublicfiles.com/arrival/dictionaries/en-de.txt
+wget https://dl.fbaipublicfiles.com/arrival/dictionaries/de-fr.txt
+wget https://dl.fbaipublicfiles.com/arrival/dictionaries/fr-de.txt
+wget https://dl.fbaipublicfiles.com/arrival/dictionaries/fr-en.txt
+wget https://dl.fbaipublicfiles.com/arrival/dictionaries/en-fr.txt
+wget https://dl.fbaipublicfiles.com/arrival/dictionaries/zh-en.txt
+wget https://dl.fbaipublicfiles.com/arrival/dictionaries/en-zh.txt
+wget https://dl.fbaipublicfiles.com/arrival/dictionaries/ja-en.txt
+wget https://dl.fbaipublicfiles.com/arrival/dictionaries/en-ja.txt
+# begin new
+wget https://dl.fbaipublicfiles.com/arrival/dictionaries/en-ar.txt
+wget https://dl.fbaipublicfiles.com/arrival/dictionaries/ar-en.txt
+# end new
