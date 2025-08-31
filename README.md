@@ -26,6 +26,6 @@ Use this file through scripts in ```experiments/scripts/*.sh```. <br/>
 3. Use ```experiments/scripts/experiment-attack.sh``` to generate our attack pipeline.
 4. To reproduce the figures and tables use notebooks in ```notebooks``` folder.
 
-## Multilingual Watermark Methods Leaderboard
+## Multilingual Watermark Methods Leaderboard (**Coming soon**)
 
-Coming soon
+This leaderboard presents the best-performing watermarking methods for each language across a range of metrics.
