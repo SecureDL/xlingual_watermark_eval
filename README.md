@@ -41,7 +41,7 @@ This leaderboard summarizes the performance of watermarking methods across langu
 
 *KGW achieves the best balance between detection and text quality (AD, SB, RD, Softwins). EXP has slightly higher detection but lower text quality.*
 
-## 🏅 Best Method Per Language (C4 Task, r7b Model)
+## 🏅 Best Method Per Language (C4 Task, Cohere Model)
 
 | Language    | Best Method | TPR@FPR=0.1% | AD   | SB   | RD    | Softwins |
 |-------------|-------------|--------------|------|------|-------|----------|
